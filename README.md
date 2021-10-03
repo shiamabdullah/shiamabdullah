@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiamabdullah" alt="shiamabdullah" /></a> </p>
 
-- 🔭 I’m currently working on [travello](https://github.com/shiamabdullah/travello)
+- 🔭 I’m currently working on [Tshirt Store](https://github.com/shiamabdullah/TShirt-Store)
 
 - 👨‍💻 Most of my projects are available at [https://boring-euclid-df9d83.netlify.app/](https://boring-euclid-df9d83.netlify.app/)
 
