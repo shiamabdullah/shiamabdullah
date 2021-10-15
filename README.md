@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shiam, Abdullah Al Mamun</h1>
 <h3 align="center">A passionate software engineer from Bangladesh</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiamabdullah" alt="shiamabdullah" /></a> </p>
+- 🔭 I’m currently working on [Tshirt Store](https://github.com/shiamabdullah/TShirt-Store) project.
 
-- 🔭 I’m currently working on [Tshirt Store](https://github.com/shiamabdullah/TShirt-Store)
-
-- 👨‍💻 Most of my projects are available at [https://boring-euclid-df9d83.netlify.app/](https://boring-euclid-df9d83.netlify.app/)
+- 👨‍💻 Most of my projects are available at [Shiamify](https://shiam-portfolio.netlify.app/)
 
 - 💬 Ask me about **php, django, glut, dot net**
 
