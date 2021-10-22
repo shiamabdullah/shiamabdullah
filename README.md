@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shiam, Abdullah Al Mamun</h1>
 <h3 align="center">A passionate software engineer from Bangladesh</h3>
 
-- 🔭 I’m currently working on [Tshirt Store](https://github.com/shiamabdullah/TShirt-Store) project.
-
+<!-- - 🔭 I’m currently working on [Tshirt Store](https://github.com/shiamabdullah/TShirt-Store) project.
+ -->
 - 👨‍💻 Most of my projects are available at [Shiamify](https://shiam-portfolio.netlify.app/)
 
 - 💬 Ask me about **php, django, glut, dot net**
