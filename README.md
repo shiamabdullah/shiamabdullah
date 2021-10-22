@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **php, django, glut, dot net**
 
-- 📫 How to reach me **shiamabdullah@gmail.com**
+- 📫 Reach me at **shiamabdullah@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
